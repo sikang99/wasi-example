@@ -14,6 +14,9 @@ edit-make em:
 
 edit-readme er:
 	$(EDIT) README.md
+
+osc:
+	$(EDIT) OSC.md
 # ---------------------------------------------------------------------------
 git g:
 	@echo ""
