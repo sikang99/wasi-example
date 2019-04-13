@@ -5,6 +5,8 @@
 > The other way is to create a separate OffscreenCanvas, and then manually bind its rendering to a DOM canvas.
 
 ### History
+- 2019/04/03 [Faster WebGL/Three.js 3D graphics with OffscreenCanvas and Web Workers](https://dev.to/evilmartians/faster-webgl-three-js-3d-graphics-with-offscreencanvas-and-web-workers-43he)
+- 2019/00/00
 - 2018/12/13 [Ambient Canvas Backgrounds](https://tympanus.net/codrops/2018/12/13/ambient-canvas-backgrounds/)
 - 2018/10/11 [DEVIEW 2018 1일차 후기](https://www.popit.kr/deview-2018-1%EC%9D%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0/)
 - 2018/09/09 [Improved Performance with OffscreenCanvas](https://newinweb.com/2018/09/10/offscreen-canvas/)
@@ -23,5 +25,8 @@
 - [122: 책에서는 맛볼 수 없는 HTML5 Canvas 이야기](https://www.slideshare.net/deview/122-html5-canvas)
 
 ### Open source
-
+- [ai/offscreen-canvas](https://github.com/ai/offscreen-canvas) - Polyfill for OffscreenCanvas to move Three.js/WebGL/2D canvas to Web Worker
+- [devnook/OffscreenCanvasDemo](https://github.com/devnook/OffscreenCanvasDemo)
+    - [OffscreenCanvas demo set](https://devnook.github.io/OffscreenCanvasDemo/)
+- [tgsstdio/webgl2-offscreen-canvas](https://github.com/tgsstdio/webgl2-offscreen-canvas)
 
