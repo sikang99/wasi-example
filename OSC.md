@@ -13,7 +13,6 @@
 
 ### Information
 - [OffscreenCanvas](https://developer.mozilla.org/ko/docs/Web/API/OffscreenCanvas)
-
 - [State of Browser](https://2018.stateofthebrowser.com)
     - [How to be a Web A/V Artist Part 2: Picking Up the Threads](https://2018.stateofthebrowser.com/speakers/ruth-john/)
 - [HTML canvas video player](https://muffinman.io/html-canvas-video-player/)
