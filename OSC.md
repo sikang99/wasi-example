@@ -1,5 +1,8 @@
 ## OffScreenCanvas
-
+> It supported from **Chrome 69**.
+> There are two ways to create an OffscreenCanvas. 
+> The easiest is to take an existing canvas from the DOM, and generate an OffscreenCanvas from it. i
+> The other way is to create a separate OffscreenCanvas, and then manually bind its rendering to a DOM canvas.
 
 ### History
 - 2018/12/13 [Ambient Canvas Backgrounds](https://tympanus.net/codrops/2018/12/13/ambient-canvas-backgrounds/)
