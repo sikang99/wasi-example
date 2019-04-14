@@ -11,6 +11,7 @@ There are two ways to create an OffscreenCanvas.
 - 2018/12/13 [Ambient Canvas Backgrounds](https://tympanus.net/codrops/2018/12/13/ambient-canvas-backgrounds/)
 - 2018/10/11 [DEVIEW 2018 1일차 후기](https://www.popit.kr/deview-2018-1%EC%9D%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0/)
 - 2018/09/09 [Improved Performance with OffscreenCanvas](https://newinweb.com/2018/09/10/offscreen-canvas/)
+- 2018/08/03 [OffscreenCanvas — Speed up Your Canvas Operations with a Web Worker](https://developers.google.com/web/updates/2018/08/offscreen-canvas)
 
 
 
