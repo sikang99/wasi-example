@@ -1,5 +1,6 @@
 ## OffScreenCanvas
 > It supported from **Chrome 69**.
+
 There are two ways to create an OffscreenCanvas. 
 1) The easiest is to take an existing canvas from the DOM, and generate an OffscreenCanvas from it. 
 2) The other way is to create a separate OffscreenCanvas, and then manually bind its rendering to a DOM canvas.
